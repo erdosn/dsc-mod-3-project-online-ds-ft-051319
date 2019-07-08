@@ -4,6 +4,8 @@
 
 ## Outline
 
+![](Northwind_ERD.png)
+
 -------------------
 
 
