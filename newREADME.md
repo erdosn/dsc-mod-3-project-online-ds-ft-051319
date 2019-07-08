@@ -4,7 +4,7 @@
 
 ## Outline
 
-![](Northwind_ERD.png)
+![This is alt text](images/Northwind_ERD.png)
 
 -------------------
 
