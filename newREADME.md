@@ -7,10 +7,12 @@
 -------------------
 
 
-<details>
+<details><summary>Question 1</summary>
+    
 ## Question 1
 ### Results/Visualizations
 ### Recommendations
+
 </details>
 
 
