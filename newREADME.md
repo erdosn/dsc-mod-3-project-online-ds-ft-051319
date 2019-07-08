@@ -4,7 +4,7 @@
 
 ## Outline
 
-![This is alt text](images/Northwind_ERD.png){:height="50%" width="50%"}
+![](images/Northwind_ERD.png){:height="300px" width="300px"}
 
 -------------------
 
