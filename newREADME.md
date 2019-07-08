@@ -4,7 +4,7 @@
 
 ## Outline
 
-![](images/Northwind_ERD.png){:height="300px" width="300px"}
+![](images/Northwind_ERD.png)
 
 -------------------
 
