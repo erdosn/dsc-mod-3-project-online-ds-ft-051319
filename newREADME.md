@@ -6,9 +6,12 @@
 
 -------------------
 
+
+<details>
 ## Question 1
 ### Results/Visualizations
 ### Recommendations
+</details>
 
 
 ## Question 2
